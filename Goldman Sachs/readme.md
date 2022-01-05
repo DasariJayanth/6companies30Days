@@ -1,4 +1,4 @@
-# [https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/](Question-1  Print Anagrams Together)
+# [Question-1  Print Anagrams Together](https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/)
 
 Given an array of strings, return all groups of strings that are anagrams. The groups must be created in order of their appearance in the original array.
 
