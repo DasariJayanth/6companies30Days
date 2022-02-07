@@ -21,12 +21,15 @@ Stephen Fleming, the head coach of CSK, analyzing the batting stats of Punjab. H
 
   
 # [Question-4 Brackets in Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/)
+
   
 
 # [Question-5 Phone directory](https://practice.geeksforgeeks.org/problems/phone-directory4628/1/)  
   
 
-# [Question-6 Maximum of all subarrays of size k](hhttps://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)  
+
+# [Question-6 Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)  
+  
   
   
 # [Question-7 First non-repeating character in a stream](https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1)  
